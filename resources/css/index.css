@@ -1,18 +1,30 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, Red;
 }
 
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
 
 h1 {
-  color: rgb(35, 223, 207);
+  color: white;
 }
-
 
 p, 
 li {
   font-size: 18px;
+    color: red;
+    font-weight: bold;
 }
 
+p1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: greenyellow;
+}
 
 a {
   text-decoration: none;
