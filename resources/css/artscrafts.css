@@ -1,0 +1,56 @@
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url('../Images/artscrafts/image1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h3{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+h4{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+h5{
+    font-family: Helvetica;
+    font-size: 18px;
+    color: black;
+}
+
+p2{
+    font-family: Helvetica;
+    font-size: 16px;
+    color: black;
+    /*font-weight: bold;*/
+}
+
+b {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
